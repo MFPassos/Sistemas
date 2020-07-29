@@ -1,0 +1,258 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"eve",
+				"eventbordercolor"
+			],
+			[
+				"me",
+				"mensagem"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"fa",
+				"fa-user"
+			],
+			[
+				"co",
+				"col-md-5"
+			],
+			[
+				"col-",
+				"col-md-3"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/clinica/application/views/layout/menu_lateral.php",
+		"/C/clinica/application/controllers/Usuarios.php",
+		"/C/Users/Cliente/Documents/Projetos/Boletim_online/boletim_media_falta/app/index.php",
+		"/C/Users/Cliente/Documents/Projetos/Controle/.htaccess",
+		"/C/Users/Cliente/Documents/Projetos/Boletim_online/boletim_media_falta/app/database/database.conf.php",
+		"/C/clinica/application/views/layout/cabecalho.php",
+		"/C/clinica/application/views/layout/menu_superior.php",
+		"/C/clinica/application/views/view_usuarios.php",
+		"/C/Users/Cliente/Downloads/wp-login.php",
+		"/C/Users/Cliente/Downloads/functions.php",
+		"/C/Users/Cliente/Documents/Projetos/Boletim_online/boletim_media_falta/app/admin/professor.php",
+		"/C/Users/Cliente/Documents/Projetos/Boletim_online/boletim_media_falta/app/admin/login.php",
+		"/C/Users/Cliente/Documents/Projetos/Boletim_online/boletim_media_falta/app/admin/usuario.php",
+		"/C/Users/Cliente/Documents/Projetos/Boletim_online/boletim_media_falta/app/admin/cliente.php",
+		"/C/Users/Cliente/Documents/Projetos/Boletim_online/boletim_media_falta/app/admin/dashboard.php",
+		"/C/Users/Cliente/Documents/Projetos/Boletim_online/boletim_media_falta/app/admin/configuracao.php",
+		"/C/Users/Cliente/Documents/Projetos/Boletim_online/boletim_media_falta/app/aluno.php",
+		"/C/Users/Cliente/Documents/Projetos/Boletim_online/boletim_media_falta/app/login.php",
+		"/C/Users/Cliente/Documents/Projetos/Boletim_online/boletim_media_falta/app/loginAluno.php",
+		"/C/Users/Cliente/Documents/Projetos/Boletim_online/boletim_media_falta/app/loginProfessor.php",
+		"/C/Users/Cliente/Documents/Projetos/Boletim_online/boletim_media_falta/.htaccess",
+		"/C/Users/Cliente/Documents/Projetos/Boletim_online/boletim_media_falta/app/professor.php",
+		"/C/Users/Cliente/Documents/Projetos/Boletim_online/boletim_media_falta/index.php",
+		"/C/Users/Cliente/Documents/Projetos/Boletim_online/boletim_media_falta/404.php",
+		"/C/clinica/application/views/view_principal.php",
+		"/C/clinica/application/controllers/Pacientes.php",
+		"/C/clinica/application/views/view_pacientes.php",
+		"/C/clinica/application/controllers/Medicos.php",
+		"/C/clinica/calender.html",
+		"/C/clinica/application/views/view_agenda.php",
+		"/C/Users/Cliente/Downloads/openboleto-master/tests/OpenBoleto/Banco/BradescoTest.php",
+		"/C/Users/Cliente/Downloads/gentelella-master/production/form_advanced.html",
+		"/C/clinica/application/views/layout/rodape.php",
+		"/C/Users/Cliente/Downloads/gentelella-master/production/form.html",
+		"/C/clinica/application/views/view_configuracao",
+		"/C/clinica/application/views/view_principal_old.php",
+		"/C/Users/Cliente/Downloads/gentelella-master/production/index2.html",
+		"/C/clinica/form.html",
+		"/C/clinica/form_advanced.html",
+		"/C/clinica/application/views/view_configuracao.php",
+		"/C/clinica/application/controllers/Configuracao.php",
+		"/C/clinica/form_validation.html",
+		"/C/clinica/system/libraries/Form_validation.php",
+		"/C/clinica/css/custom.css",
+		"/C/clinica/login.html",
+		"/C/clinica/application/config/config.php",
+		"/C/clinica/application/config/routes.php",
+		"/C/clinica/application/views/Principal/index.php",
+		"/C/clinica/application/controllers/Principal.php",
+		"/C/clinica/application/views/Layout/cabecalho.php",
+		"/C/clinica/application/views/Layout/script.php",
+		"/C/clinica/application/views/welcome_message.php",
+		"/C/clinica/application/config/autoload.php",
+		"/C/clinica/index.php",
+		"/C/clinica/index2.html",
+		"/C/clinica/chartjs2.html",
+		"/C/Users/Cliente/Downloads/CodeIgniter-3.1.9/application/config/config.php",
+		"/C/Users/Cliente/Downloads/Arquivo_htaccess/.htaccess"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 186.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
